@@ -1,0 +1,3 @@
+[submodule "amoeba-detection"]
+	path = amoeba-detection
+	url = https://github.com/BaosenZ/amoeba-detection
